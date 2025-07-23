@@ -76,6 +76,18 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "pggf":{
+     "api":"https://www.applecms.cc",
+     "name":"苹果cms官方",
+    },
+   "zpgw":{
+    "api":"https://www.zanpiancms.com/",
+    "name":"赞片cms官网",
+    },
+    "lzzy":{
+     "api":"http://lzizy.net/help/",
+     "name":"量子资源网",
     }
   }
 }
